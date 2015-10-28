@@ -16,7 +16,6 @@ class MainWindow(QDialog, form_class):
 
 		self.setupUi(self)
 
-
 # -----------------------------------------------------#
 form = MainWindow()
 form.setWindowTitle('untitled2')
